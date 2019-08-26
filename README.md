@@ -1,2 +1,2 @@
-# SimpleCalculator
-A simple calculator created using JavaFX
+# JavaFXCalculator
+Creating a simple calculator using JavaFX
